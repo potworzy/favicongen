@@ -1,0 +1,3 @@
+# favicongen
+
+basic favion generator
