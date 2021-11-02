@@ -1,3 +1,3 @@
 # favicongen
 
-basic favion generator
+basic favicon generator
